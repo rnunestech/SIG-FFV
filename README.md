@@ -22,11 +22,11 @@ discutindo aspectos do processo que foram positivos e propondo melhorias para as
 #### 1. Planejamento da Sprint
 Durante a fase de planejamento as funcionalidades nesta interação são selecionadas do backlog do produto.
 ##### Backlog do produto
-REQ01 - Cadastrar cliente
-REQ02 - Consultar cliente
-REQ03 - Alterar cliente
-REQ04 - Excluir cliente
-REQ05 - Login de Usuário
+- REQ01 - Cadastrar cliente
+- REQ02 - Consultar cliente
+- REQ03 - Alterar cliente
+- REQ04 - Excluir cliente
+- REQ05 - Login de Usuário
 #### 2. Estratégia de desenvolvimento.
 Na primeira interação a meta é criar um baseline (base de sustentação) da arquitetura do sistema a fim de definir como o código será
 organizado nas próximas interações. A arquitetura se desenvolve a partir de um exame dos requisitos mais significativos (aqueles que
